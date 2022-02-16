@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1f7a4129-9846-4b6d-9094-73027bbe68b6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../enn-bill-center" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Typora/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Typora/10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Typora/11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Typora/12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Typora/13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Typora/14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Typora/15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Typora/16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Typora/17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Typora/18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Typora/2.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Typora/3.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Typora/4.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Typora/5.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Typora/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Typora/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Typora/8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Typora/9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Typora/Dubbo使用.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Typora/Git安装和使用.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Typora/Java 全栈知识体系（附学习路线思维导图）.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Typora/Java基础.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Typora/Java基础.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Typora/MySQL.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Typora/Navicat 15激活.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Typora/RPC（Remote Procedure Call）远程过程调用.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Typora/Spring Boot 常用注解.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Typora/Swagger注解.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Typora/dubbo工作原理.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Typora/git1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Typora/git2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Typora/git3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Typora/lin.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Typora/spring-boot-reference.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Typora/环境配置.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Maven\maven-media\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../Maven/apache-maven-3.8.2" />
+        <option name="userSettingsFile" value="C:\Maven\apache-maven-3.8.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="24tmZ1mdjyFxkKfDJwTMNrBvTt8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2031455" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\code\spring-cloud\service-consumer\src\main\resources" />
+      <recent name="C:\code\spring-cloud\service-consumer\src\main\java\org\example" />
+      <recent name="C:\code\spring-cloud\service-consumer01\src\main\resources" />
+      <recent name="C:\code\spring-cloud\service-consumer01\src\main\java\org\example" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.facade" />
+      <recent name="org.example.controller" />
+      <recent name="org.example.mapper" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ServiceProviderApplication">
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="eureka-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication01" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="eureka-server01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.EurekaServerApplication01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="service-consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.ServiceConsumerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceConsumerApplication01" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service-consumer01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.ServiceConsumerApplication01" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service-provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.ServiceProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceProviderApplication01" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service-provider01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.ServiceProviderApplication01" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.ServiceConsumerApplication" />
+      <item itemvalue="Spring Boot.ServiceProviderApplication01" />
+      <item itemvalue="Spring Boot.ServiceProviderApplication" />
+      <item itemvalue="Spring Boot.ServiceConsumerApplication01" />
+      <item itemvalue="Spring Boot.EurekaServerApplication" />
+      <item itemvalue="Spring Boot.EurekaServerApplication01" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ServiceProviderApplication01" />
+        <item itemvalue="Spring Boot.ServiceProviderApplication" />
+        <item itemvalue="Spring Boot.ServiceConsumerApplication01" />
+        <item itemvalue="Spring Boot.EurekaServerApplication" />
+        <item itemvalue="Spring Boot.EurekaServerApplication01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f7a4129-9846-4b6d-9094-73027bbe68b6" name="Default Changelist" comment="" />
+      <created>1644458311987</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644458311987</updated>
+      <workItem from="1644458313278" duration="1301000" />
+      <workItem from="1644565858857" duration="6762000" />
+      <workItem from="1644800836021" duration="13503000" />
+      <workItem from="1644886703988" duration="13110000" />
+      <workItem from="1644974519698" duration="4032000" />
+      <workItem from="1644978638874" duration="4717000" />
+      <workItem from="1644998618475" duration="105000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloud-api-commons/cloud-api-commons.iml" filepath="$PROJECT_DIR$/cloud-api-commons/cloud-api-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server01/eureka-server01.iml" filepath="$PROJECT_DIR$/eureka-server01/eureka-server01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-consumer/service-consumer.iml" filepath="$PROJECT_DIR$/service-consumer/service-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-consumer01/service-consumer01.iml" filepath="$PROJECT_DIR$/service-consumer01/service-consumer01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-provider/service-provider.iml" filepath="$PROJECT_DIR$/service-provider/service-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-provider01/service-provider01.iml" filepath="$PROJECT_DIR$/service-provider01/service-provider01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud.iml" filepath="$PROJECT_DIR$/spring-cloud.iml" />
+    </modules>
+  </component>
+</project>
